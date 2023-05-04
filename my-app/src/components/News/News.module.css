@@ -1,0 +1,8 @@
+.news{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 960px;
+    height: 400px;
+    background-color: #ffff;
+}

@@ -1,0 +1,11 @@
+.text {
+    max-width: 460px;
+    font-family: "OpenSans";
+    font-size: 14px;
+    line-height: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}

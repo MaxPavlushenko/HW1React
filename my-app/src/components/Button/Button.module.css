@@ -1,0 +1,25 @@
+.button {
+    background-color: transparent;
+    border: 1px solid #9FA3A7;
+    border-radius: 30px;
+    min-width: 160px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #525252;
+    letter-spacing: 2.1px;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    transition: .1s linear;
+}
+
+.buttonSale {
+    color:#fff;
+    background-color: #FFC80A;
+    border: none;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
